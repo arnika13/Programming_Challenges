@@ -34,16 +34,9 @@ string super_reduced_string(string s)
 }
 
 int main() {
-	//string s;
-	//cin >> s;
-	//string result = super_reduced_string(s);
-	//cout << result << endl;
-
-	int x = -4;
-	unsigned int y = -4;
-	bool flag = 10;
-	cout << "x = " << x << endl;
-	cout << "y = " << y << endl;
-	cout << "flag = " << flag << endl;
+	string s;
+	cin >> s;
+	string result = super_reduced_string(s);
+	cout << result << endl;
 	return 0;
 }
