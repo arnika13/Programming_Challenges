@@ -1,4 +1,0 @@
-﻿  rock__paper_scissor.cpp
-c:\temp\rock_paper_scissor\rock_paper_scissor\rock__paper_scissor.cpp(47): warning C4715: 'rockpaperscissor': not all control paths return a value
-  Rock_paper_Scissor.vcxproj -> C:\Temp\Rock_paper_Scissor\Debug\Rock_paper_Scissor.exe
-  Rock_paper_Scissor.vcxproj -> C:\Temp\Rock_paper_Scissor\Debug\Rock_paper_Scissor.pdb (Partial PDB)

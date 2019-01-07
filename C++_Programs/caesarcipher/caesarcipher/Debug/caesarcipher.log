@@ -1,4 +1,0 @@
-﻿  caesarcipher.cpp
-c:\temp\caesarcipher\caesarcipher\caesarcipher.cpp(9): warning C4018: '<': signed/unsigned mismatch
-  caesarcipher.vcxproj -> C:\Temp\caesarcipher\Debug\caesarcipher.exe
-  caesarcipher.vcxproj -> C:\Temp\caesarcipher\Debug\caesarcipher.pdb (Partial PDB)

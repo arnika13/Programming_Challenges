@@ -1,4 +1,0 @@
-﻿  bubblesort.cpp
-c:\temp\bubblesort\bubblesort\bubblesort.cpp(7): warning C4101: 'swap': unreferenced local variable
-  bubblesort.vcxproj -> C:\Temp\bubblesort\Debug\bubblesort.exe
-  bubblesort.vcxproj -> C:\Temp\bubblesort\Debug\bubblesort.pdb (Partial PDB)

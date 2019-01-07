@@ -1,3 +1,0 @@
-﻿  100_doors.cpp
-c:\temp\100_doors\100_doors\100_doors.cpp(29): error C2065: 'h': undeclared identifier
-c:\temp\100_doors\100_doors\100_doors.cpp(30): error C2146: syntax error: missing ';' before identifier 'cout'

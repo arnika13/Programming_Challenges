@@ -1,5 +1,0 @@
-﻿  IsRouteDirectedGraph.cpp
-c:\temp\c++programs\isroutedirectedgraph\isroutedirectedgraph\isroutedirectedgraph.cpp(121): warning C4101: 'actualResult': unreferenced local variable
-c:\temp\c++programs\isroutedirectedgraph\isroutedirectedgraph\isroutedirectedgraph.cpp(121): warning C4101: 'expectedResult': unreferenced local variable
-  IsRouteDirectedGraph.vcxproj -> C:\Temp\C++programs\IsRouteDirectedGraph\Debug\IsRouteDirectedGraph.exe
-  IsRouteDirectedGraph.vcxproj -> C:\Temp\C++programs\IsRouteDirectedGraph\Debug\IsRouteDirectedGraph.pdb (Partial PDB)
