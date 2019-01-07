@@ -1,0 +1,5 @@
+﻿  single_language.cpp
+c:\temp\simple_language\simple_language\single_language.cpp(19): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+c:\temp\simple_language\simple_language\single_language.cpp(22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  simple_language.vcxproj -> C:\Temp\simple_language\Debug\simple_language.exe
+  simple_language.vcxproj -> C:\Temp\simple_language\Debug\simple_language.pdb (Partial PDB)

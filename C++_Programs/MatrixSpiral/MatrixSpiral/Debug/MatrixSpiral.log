@@ -1,0 +1,4 @@
+﻿  MatrixSpiral.cpp
+c:\users\localuser\onedrive\ms in computer science(ranu)\fsu\projects\c++_programs\matrixspiral\matrixspiral\matrixspiral.cpp(99): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MatrixSpiral.vcxproj -> C:\Users\LocalUser\OneDrive\MS in Computer Science(Ranu)\FSU\Projects\C++_Programs\MatrixSpiral\Debug\MatrixSpiral.exe
+  MatrixSpiral.vcxproj -> C:\Users\LocalUser\OneDrive\MS in Computer Science(Ranu)\FSU\Projects\C++_Programs\MatrixSpiral\Debug\MatrixSpiral.pdb (Partial PDB)

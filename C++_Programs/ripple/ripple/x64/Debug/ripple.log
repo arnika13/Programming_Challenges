@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file ripple.cu...
+  
+  C:\Temp\ripple\ripple>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env --cl-version 2017 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.11.25503\bin\HostX86\x64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -o x64\Debug\ripple.cu.obj "C:\Temp\ripple\ripple\ripple.cu" 
+c:\temp\ripple\ripple\../common/cpu_anim.h(61): warning : conversion from a string literal to "char *" is deprecated
+c:\temp\ripple\ripple\../common/cpu_anim.h(61): warning : conversion from a string literal to "char *" is deprecated
+  ripple.cu
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'

@@ -1,0 +1,6 @@
+﻿  reduced_substring.cpp
+c:\temp\reduced_substring\reduced_substring\reduced_substring.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\temp\reduced_substring\reduced_substring\reduced_substring.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\temp\reduced_substring\reduced_substring\reduced_substring.cpp(44): warning C4305: 'initializing': truncation from 'int' to 'bool'
+  Reduced_substring.vcxproj -> C:\Temp\Reduced_substring\Debug\Reduced_substring.exe
+  Reduced_substring.vcxproj -> C:\Temp\Reduced_substring\Debug\Reduced_substring.pdb (Partial PDB)

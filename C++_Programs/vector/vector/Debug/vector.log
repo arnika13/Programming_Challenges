@@ -1,0 +1,5 @@
+﻿  vector.cpp
+c:\temp\vector\vector\vector.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\temp\vector\vector\vector.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  vector.vcxproj -> C:\Temp\vector\Debug\vector.exe
+  vector.vcxproj -> C:\Temp\vector\Debug\vector.pdb (Partial PDB)

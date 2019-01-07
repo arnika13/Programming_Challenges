@@ -1,0 +1,4 @@
+﻿  minelementinstack.cpp
+c:\users\arnik\onedrive\ms in computer science(ranu)\fsu\projects\c++_programs\minelementinstack\minelementinstack\minelementinstack.cpp(84): warning C4715: 'Stack::pop': not all control paths return a value
+  minelementinstack.vcxproj -> C:\Users\arnik\OneDrive\MS in Computer Science(Ranu)\FSU\Projects\C++_Programs\minelementinstack\Debug\minelementinstack.exe
+  minelementinstack.vcxproj -> C:\Users\arnik\OneDrive\MS in Computer Science(Ranu)\FSU\Projects\C++_Programs\minelementinstack\Debug\minelementinstack.pdb (Partial PDB)

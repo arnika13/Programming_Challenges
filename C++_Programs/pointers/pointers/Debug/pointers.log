@@ -1,0 +1,5 @@
+﻿  pointers.c
+c:\temp\pointers\pointers\pointers.c(45): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\temp\pointers\pointers\pointers.c(46): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  pointers.vcxproj -> C:\Temp\pointers\Debug\pointers.exe
+  pointers.vcxproj -> C:\Temp\pointers\Debug\pointers.pdb (Partial PDB)
